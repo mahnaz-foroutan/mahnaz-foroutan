@@ -1,12 +1,10 @@
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Mahnaz Foroutan</h1>
-<br />
 <div align='center'>
   <p align='center'>
     <a href="https://linkedin.com/in/mahnaz-foroutan"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
     <a href="mailto:mahnaz.forutan@gmail.com.io"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
   </p>
-</div>
-   <br />                                         
+</div>                                       
 I'm a .Net Developer 𝘄𝗶𝘁𝗵 13 𝘆𝗲𝗮𝗿𝘀 𝗼𝗳 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲. I am skilled in all technical aspects, from design to system analysis, implementation, maintenance, and improvement of complex applications.
 I have a great passion for writing 𝗰𝗹𝗲𝗮𝗻 𝗮𝗻𝗱 𝘁𝗲𝘀𝘁𝗮𝗯𝗹𝗲 𝗰𝗼𝗱𝗲𝘀, particularly focused on troubleshooting and optimization, I possess a strong ability to find solutions to complex problems most simply and efficiently possible.
 I possess exceptional teamwork skills, adaptability, and the ability to handle multiple tasks, making me an effective collaborator and efficient time manager. Thrives in agile environments and engaging in pair programming with fellow developers to foster continuous growth and knowledge-sharing
