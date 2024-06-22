@@ -1,14 +1,19 @@
-![image](https://github.com/mahnaz-foroutan/mahnaz-foroutan/assets/58607300/38fd0f82-b55c-4693-9f96-4788ac3a8cd0)<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Mahnaz." src="./assets/gh-readme-header.png" /></a></p>
-
+<h1 align="left" id="macropower-title">:wave: Hello there! I'm Mahnaz Foroutan</h1>
 <br />
-
+<div align='center'>
+  <p align='center'>
+    <a href="https://linkedin.com/in/mahnaz-foroutan"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+    <a href="mailto:mahnaz.forutan@gmail.com.io"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
+  </p>
+</div>
+   <br />                                         
 I'm a .Net Developer 𝘄𝗶𝘁𝗵 13 𝘆𝗲𝗮𝗿𝘀 𝗼𝗳 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲. I am skilled in all technical aspects, from design to system analysis, implementation, maintenance, and improvement of complex applications.
 I have a great passion for writing 𝗰𝗹𝗲𝗮𝗻 𝗮𝗻𝗱 𝘁𝗲𝘀𝘁𝗮𝗯𝗹𝗲 𝗰𝗼𝗱𝗲𝘀, particularly focused on troubleshooting and optimization, I possess a strong ability to find solutions to complex problems most simply and efficiently possible.
 I possess exceptional teamwork skills, adaptability, and the ability to handle multiple tasks, making me an effective collaborator and efficient time manager. Thrives in agile environments and engaging in pair programming with fellow developers to foster continuous growth and knowledge-sharing
 
-- :office: &nbsp;I'm currently working at **[Hamtarayaneh.ir]**
+- :office: &nbsp;I'm currently working at **[Hamtarayaneh]**
 
-* 💻 Back-End
+* 💻 Back-End:  
 • C#, .NET Core, ASP.NET, Web Forms, MVC, MVVM
 • ORM tools: Entity Framework, NHibernate, and Dapper, EF Core
 • Docker, Message broker systems including Kafka and RabbitMQ
@@ -21,22 +26,22 @@ I possess exceptional teamwork skills, adaptability, and the ability to handle m
 • JWT, OAuth, OpenID Connect.
 • Agile/Scrum, Jira, TFS, Git, Azure DevOps
 
-* 💼 Front-End
+* 💼 Front-End:  
 • Angular, HTML, CSS, Bootstrap, JavaScript, TypeScript, Jquery, Knockout.js, Angular.js
 
-* 📈 Software Architecture
+* 📈 Software Architecture:  
 • Microservice Architecture, Container orchestration (Docker, Kubernetes),
 • Domain Driven Design (DDD), Test Driven Development (TDD), CQRS, Clean architecture
 • Behaviour Driven Development (BDD), Event-Driven Architecture
 • Design & Architectural Patterns, SOLID/DRY Principles, life cycle (SDLC)
 
-* Cloud
+* 🛸 Cloud:  
 • Azure Cloud platform: including Azure Functions, Azure App Service, and Azure Storage
 • Deploy using Kubernetes and Docker Hub
 • CI/CD, Azure DevOps
 • PowerShell
 
-* 🌱 Other
+* 🌱 Other:  
 • Experience working with large codebases
 • Excellent math, algorithms, and problem-solving skills
 ## 🌐 Socials:
