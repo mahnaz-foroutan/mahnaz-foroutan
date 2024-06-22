@@ -1,4 +1,44 @@
+![image](https://github.com/mahnaz-foroutan/mahnaz-foroutan/assets/58607300/38fd0f82-b55c-4693-9f96-4788ac3a8cd0)<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Mahnaz." src="./assets/gh-readme-header.png" /></a></p>
 
+<br />
+
+I'm a .Net Developer 𝘄𝗶𝘁𝗵 13 𝘆𝗲𝗮𝗿𝘀 𝗼𝗳 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲. I am skilled in all technical aspects, from design to system analysis, implementation, maintenance, and improvement of complex applications.
+I have a great passion for writing 𝗰𝗹𝗲𝗮𝗻 𝗮𝗻𝗱 𝘁𝗲𝘀𝘁𝗮𝗯𝗹𝗲 𝗰𝗼𝗱𝗲𝘀, particularly focused on troubleshooting and optimization, I possess a strong ability to find solutions to complex problems most simply and efficiently possible.
+I possess exceptional teamwork skills, adaptability, and the ability to handle multiple tasks, making me an effective collaborator and efficient time manager. Thrives in agile environments and engaging in pair programming with fellow developers to foster continuous growth and knowledge-sharing
+
+- :office: &nbsp;I'm currently working at **[Hamtarayaneh.ir]**
+
+* 💻 Back-End
+• C#, .NET Core, ASP.NET, Web Forms, MVC, MVVM
+• ORM tools: Entity Framework, NHibernate, and Dapper, EF Core
+• Docker, Message broker systems including Kafka and RabbitMQ
+• Elasticsearch, Kibana, API Gateways with Ocelot
+• REST, Restful, Soap, Grpc API, GraphQL
+• Object-oriented programming (OOPs), paradigms and design patterns
+• SQL, T-SQL, MSSQL, SQLite, PostgreSQL, Mongo, Redis
+• Unit Testing, XUnit, Integration Testing, Functional Testing, API Testing, Postman/Swagger
+• Caching, load Balancing, multithreading
+• JWT, OAuth, OpenID Connect.
+• Agile/Scrum, Jira, TFS, Git, Azure DevOps
+
+* 💼 Front-End
+• Angular, HTML, CSS, Bootstrap, JavaScript, TypeScript, Jquery, Knockout.js, Angular.js
+
+* 📈 Software Architecture
+• Microservice Architecture, Container orchestration (Docker, Kubernetes),
+• Domain Driven Design (DDD), Test Driven Development (TDD), CQRS, Clean architecture
+• Behaviour Driven Development (BDD), Event-Driven Architecture
+• Design & Architectural Patterns, SOLID/DRY Principles, life cycle (SDLC)
+
+* Cloud
+• Azure Cloud platform: including Azure Functions, Azure App Service, and Azure Storage
+• Deploy using Kubernetes and Docker Hub
+• CI/CD, Azure DevOps
+• PowerShell
+
+* 🌱 Other
+• Experience working with large codebases
+• Excellent math, algorithms, and problem-solving skills
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahnaz-foroutan) 
 
